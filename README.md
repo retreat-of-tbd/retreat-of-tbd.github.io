@@ -11,7 +11,9 @@ That should be it to get things working locally. You can see the site at localho
 
 ## How does it work?
 
-We use Jekyll to generate this site. Github Pages also uses Jekyll. When you push, github will generate your site and publish it for you to:
+We use [Jekyll](https://jekyllrb.com/docs/) to generate this site locally. We host it on [Github Pages](https://pages.github.com/). When you push your changes to github, it also uses Jekyll to generate the site and then publishes it for you to:
 
-```retreat-of-tbd.github.io```
+https://retreat-of-tbd.github.io
+
+
 
