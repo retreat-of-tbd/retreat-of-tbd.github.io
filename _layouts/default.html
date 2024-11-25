@@ -21,20 +21,34 @@
   </head>
   <body>
     <!-- a id="skip-to-content" href="#content">Skip to the content.</a -->
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
-
+    
     <main id="content" class="main-content" role="main">
+      <div class="menu">
+        Retreat of TBD
+        
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/#covid">Covid</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/">TBD 4</a></li>
+          <li><a href="/tbd3">TBD 3</a></li>
+          <li><a href="/tbd2">TBD 2</a></li>
+          <li><a href="/tbd1">TBD 1</a></li>
+        </ul>
+      </div>
+
+      <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <!-- {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        {% endif %}
+        {% if site.show_downloads %}
+          <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+          <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+        {% endif %} -->
+      </header>
+  
       {{ content }}
 
       <footer class="site-footer">
