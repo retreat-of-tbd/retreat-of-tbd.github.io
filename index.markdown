@@ -31,8 +31,8 @@ We will be making intentional choices to make the retreat more inclusive as a pa
 **Where:** [The Big House Lodge](https://thebighouselodge.com/)<br/>
 751 Big House Road, Cle Elum, Washington 98922
 
-![](/images/bighouselodge-front-door.webp)
 ![](/images/bighouselodge-living-room.webp)
+![](/images/bighouselodge-dining-room.webp)
 
 **When:** 4pm Friday, May 23 - 6pm Monday, May 26 (Memorial Day Weekend)
 
