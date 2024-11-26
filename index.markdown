@@ -1,47 +1,68 @@
 ---
+title: TBD 5 - May 2025
+hero-image: /images/bighouselodge-front-door.webp
 layout: default
 ---
+
 
 The Retreat of TBD is 3 days and nights of intense connection, play, personal growth ... and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
 What sessions will be offered? Depends on who comes. It's probably safe to say they will include things on movement, communication, breaking through barriers, playing, singing, and really anything anyone is passionate enough to bring into the space. They can be a skill share (e.g. Learn to slackline), a discussion (Let's talk about gender in my community), a question (How can I better show up for my partner?), or even a space (Let's sit around the fire and draw). Up to you!
 
-# Our Values
 
-## Agency (Law of Personal Mobility)
+## == OUR PURPOSE ==
 
-Choose your own adventure. We'll use Open Space to schedule sessions, and you get to bring whatever you need/want to the space. In fact, we're co-creating this whole event with you.
- 
-## Work
+The Retreat of TBD is a space created for and by a trusted network and their guests to engage with personal and collective growth with the intention of nurturing deeper connections and strengthening our broader communities. In participating, attendees are asked to explore their access to openness, vulnerability, and creativity in a reciprocal space - this is a space not only for sharing, but for also being open to receiving. While the container is ephemeral, the rewards are lasting.
 
-This is a place to come and do your work, with support. It'll be fun too! But we want to explicitly focus on moving ourselves forward.
- 
-## Body, Mind, & Heart
+## == DIVERSITY, EQUITY & INCLUSION (DEI) INITIATIVE ==
 
-We want to create a space that invites all parts of ourselves to show up. Bring your whole self.
- 
-## Safer / Stretch Space
+While we have worked to build a more welcoming and safe space with our retreats, the reality is that TBD is still not entirely welcoming to or representative of all people. As organizing and participating members of the TBD community, we have the agency to shape our retreats towards greater diversity, equity, and inclusion by challenging how we retreat. 
 
-We want everyone to be able to fully participate without fear of being harassed or discriminated against. With a bunch of people trying new things, we acknowledge that people might misstep, and if/when that happens, we offer (and encourage other attendees to offer) support.
+For TBD 2025, the organizing team is actively working towards and prioritizing building a more inclusive environment with the following actions:
 
+TBD will be holding ten of the fifty available tickets for BIPOC attendees who have not attended a Retreat of TBD before. These tickets will become available upon our first wave of registration, and will be held until two months prior to the event (March 23) at which point they will be released to waitlisted registrants. 
 
-# Health Policy
+We are asking you, our TBD alumni, to expand on who you invite into our retreat space. 
 
-Every participant (of all ages) must rapid test Tuesday (2 days before the event) AND 4 hours or less before arrival AND Friday/Saturday/Sunday mornings.
+We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
 
-If you have any symptoms, please stay home (or go home). We'll prorate refunds if any are necessary. We will be so sad to miss you, but we want to keep everyone safe.
+## == WHEN & WHERE ==
 
-Masks are optional throughout the weekend.
+**Where:** [The Big House Lodge](https://thebighouselodge.com/)<br/>
+751 Big House Road, Cle Elum, Washington 98922
 
-Attendees to Retreat are required to have up-to-date COVID-19 vaccines, with some mitigated exceptions.
+![](/images/bighouselodge-front-door.webp)
+![](/images/bighouselodge-living-room.webp)
 
-"Up-to-date" means you've had a covid shot within the last 6 months, or have had the most recent vaccine.
+**When:** 4pm Friday, May 23 - 6pm Monday, May 26 (Memorial Day Weekend)
 
-In some specific cases, we are allowing exemptions to the booster requirement for attendees with adverse reactions to the COVID-19 vaccines. If this describes you, email us to discuss a waiver of this requirement. We will probably ask for a higher level of COVID-19 safety precautions before the event to mitigate your higher chance of infection, including a PCR test prior to your arrival.
+Please arrive Friday evening between 4 p.m. and 7:30 p.m., and plan on being there through the closing circle on Monday at 4 p.m. This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.
 
-We reserve the right to add other COVID precautions if the landscape changes in the coming months -- but hopefully we won't have to.
+After closing circle on Monday afternoon, you're invited to stay an extra night (until 11 a.m. on Tuesday) to decompress together.
 
-During the event: 
-- if symptoms come up, then mask + inform host on duty + test if its been more than 6h since last rapid test
-- if you have a fever, strong or worsening symptoms, or a postive test, then isolate, and go home
+## == WHO ==
 
+You + 50-ish others (kids are welcome)
+
+If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our DEI initiative (above) when inviting people into our space.  
+
+## == REGISTRATION ==
+
+We will release half of tickets on Saturday, January 11th, 2025 @ 10am, and the other half on Wednesday, January 15th, 2025 @ 8pm.
+
+Cost & other registration details coming soon.
+
+## == Our Values ==
+
+see [Values](/values.html)
+
+## == Host Team ==
+
+This is the core team that finds the venue, sends out the invitations, and helps set the stage so that you can fill it with your magic. We co-create the magic together.
+
+- Samara Lerman
+- Milan Prince
+- Lindsay Christensen
+- Laura Coon
+- Jeremy Lightsmith
+- Blaze Zimmerman
