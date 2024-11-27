@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+
+  <body class="home">
+    {% include menu.html %}
+
+    <div class="hero-image">
+      <div class="image" style="background-image: url('{{ page.hero-image }}');"></div>
+      <div class="hero-text">
+        <h1 class="page-name">{{ page.title }}</h1>
+        <div class="event-description">{{ page.description }}</div>
+        <div class="event-date">{{ page.date }}</div>
+        <!-- <div class="event-location">{{ page.location }}</div> -->
+      </div>
+    </div>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+      </footer>
+    </main>
+  </body>
+</html>

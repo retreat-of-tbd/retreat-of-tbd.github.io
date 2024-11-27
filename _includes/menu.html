@@ -1,0 +1,32 @@
+<div class="menu">
+  <div class="content">
+    <h2><a href="/">Retreat of TBD</a></h2>
+
+    <ul>
+      {% for item in site.data.pages.all %}
+      <li>
+        {% if item.url %}
+        <a href="{{ item.url }}"
+          class="{% if item.url == page.url %}active{% endif %}">
+          {{ item.title }}
+        </a>
+        {% else %}
+        <span>{{ item.title }}</span>
+        {% endif %}
+        {% if item.children[0] %}
+        <ul>
+          {% for entry in item.children %}
+          <li>
+            <a href="{{ entry.url }}"
+              class="{% if entry.url == page.url %}active{% endif %}">
+              {{ entry.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

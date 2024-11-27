@@ -1,13 +1,14 @@
-- [ ] page banner image - span the width of the page, no space on top
-- [ ] make home page be like aonw, a home page
-- [ ] make a separate tbd5 page
-- [ ] purpose and values and dei on home page
-- [ ] other pages no banner like aonw
-- [ ] load the background color should be green or whatever of the banner
-- [ ] logo on the top left should be clickable
 - [ ] make responsive like aonw
-- [ ] retreat of tbd top left use cursive
-- [ ] maybe titles can us serif font?
 - [ ] darken green
 - [ ] old events should show dates / venue + pic / theme / numbers
 - [ ] old events could show pics of ppl (w/ consent)
+
+- [x] maybe titles can us serif font?
+- [x] retreat of tbd top left use cursive
+- [x] logo on the top left should be clickable
+- [x] load the background color should be green or whatever of the banner
+- [x] other pages no banner like aonw
+- [x] purpose and values and dei on home page
+- [x] make home page be like aonw, a home page
+- [x] page banner image - span the width of the page, no space on top
+- [x] make a separate tbd5 page

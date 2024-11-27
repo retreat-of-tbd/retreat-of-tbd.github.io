@@ -6,8 +6,8 @@ all:
 - title: TBD 5
   url: /tbd5.html
 
-- title: Purpose + Values
-  url: /purpose-values.html
+# - title: Purpose + Values
+#   url: /purpose-values.html
 
 - title: Code of Conduct
   url: /code-of-conduct.html

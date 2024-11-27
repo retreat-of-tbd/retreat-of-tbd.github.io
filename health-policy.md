@@ -3,8 +3,6 @@ title: Health Policy
 layout: default
 ---
 
-# Health Policy
-
 Every participant (of all ages) must rapid test Tuesday (2 days before the event) AND 4 hours or less before arrival AND Friday/Saturday/Sunday mornings.
 
 If you have any symptoms, please stay home (or go home). We'll prorate refunds if any are necessary. We will be so sad to miss you, but we want to keep everyone safe.
