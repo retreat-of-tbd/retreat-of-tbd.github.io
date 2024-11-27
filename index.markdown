@@ -65,4 +65,4 @@ This is the core team that finds the venue, sends out the invitations, and helps
 - Lindsay Christensen
 - Laura Coon
 - Jeremy Lightsmith
-- Blaze Zimmerman
+- Blaze Creature
