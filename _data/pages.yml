@@ -1,9 +1,19 @@
 all:
 
-- title: Home
+- title: About Retreat
   url: /
+  children:
+    - title: Purpose
+      url: /#-our-purpose-
 
-- title: TBD 5
+    - title: Values
+      url: /#-values-
+
+    - title: DEI Initiative
+      url: /#-diversity-equity--inclusion-dei-
+
+
+- title: TBD 5 (May 2025)
   url: /tbd5.html
 
 # - title: Purpose + Values
