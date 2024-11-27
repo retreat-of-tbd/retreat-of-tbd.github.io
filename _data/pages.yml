@@ -1,8 +1,10 @@
-title: ACME Documentation
 all:
 
-- title: TBD 5
+- title: Home
   url: /
+
+- title: TBD 5
+  url: /tbd5.html
 
 - title: Purpose + Values
   url: /purpose-values.html
@@ -13,6 +15,9 @@ all:
 - title: Health Policy
   url: /health-policy.html
 
+- title: FAQ
+  url: /faq.html
+  
 # - title: About
 #   url: /about.html
 

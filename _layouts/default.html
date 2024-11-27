@@ -57,17 +57,17 @@
         </ul>
       </div>
     </div>
+    <header role="banner"
+      {% if page.hero-image %}
+      class="page-header page-banner" style="background-image: url('{{ page.hero-image }}');"
+      {% else %}
+      class="page-header"
+      {% endif %}
+      >
+      <h1 class="page-name">{{ page.title }}</h1>
+      <h2 class="page-description">{{ page.description }}</h2>
+    </header>
     <main id="content" class="main-content" role="main">
-
-      <header class="page-header" role="banner"
-        {% if page.hero-image %}
-        style="background-image: url('{{ page.hero-image }}');"
-        {% endif %}>
-        <h1 class="page-name">{{ page.title | default: site.title }}</h1>
-        <h2 class="page-description">{{ page.description | default:
-          site.description }}</h2>
-      </header>
-
       {{ content }}
 
       <footer class="site-footer">

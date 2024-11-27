@@ -1,4 +1,5 @@
 ---
+title: Purpose + Values
 layout: default
 ---
 
