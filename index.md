@@ -4,6 +4,8 @@ description: Join us for three days of intense, co-created play and personal gro
 location: At Big House Lodge, Cle Elum
 date: May 23 - 26, 2025
 hero-image: /images/bighouselodge-front-door.webp
+call-to-action-link: /tbd5.html
+call-to-action-text: Learn More!
 layout: home
 ---
 

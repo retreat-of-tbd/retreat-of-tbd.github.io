@@ -12,6 +12,11 @@
         <div class="event-description">{{ page.description }}</div>
         <div class="event-date">{{ page.date }}</div>
         <!-- <div class="event-location">{{ page.location }}</div> -->
+
+        {% if page.call-to-action-link %}
+          <a class="cta" href="{{ page.call-to-action-link }}" class="button">{{ page.call-to-action-text }}</a>
+        {% endif %}
+         
       </div>
     </div>
 

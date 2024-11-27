@@ -1,4 +1,5 @@
 - [ ] make responsive like aonw
+- [ ] darken banners so they don't suck
 - [ ] darken green
 - [ ] old events should show dates / venue + pic / theme / numbers
 - [ ] old events could show pics of ppl (w/ consent)
