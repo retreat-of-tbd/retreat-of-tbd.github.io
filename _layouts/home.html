@@ -6,17 +6,19 @@
     {% include menu.html %}
 
     <div class="hero-image">
-      <div class="image" style="background-image: url('{{ page.hero-image }}');"></div>
-      <div class="hero-text">
+      <div class="image"
+        style="background-image: url('{{ page.banner }}');"></div>
+      <div class="overlay"></div>
+      <div class="hero-text centered">
         <h1 class="page-name">{{ page.title }}</h1>
         <div class="event-description">{{ page.description }}</div>
         <div class="event-date">{{ page.date }}</div>
         <!-- <div class="event-location">{{ page.location }}</div> -->
 
         {% if page.call-to-action-link %}
-          <a class="cta" href="{{ page.call-to-action-link }}" class="button">{{ page.call-to-action-text }}</a>
+        <a class="cta" href="{{ page.call-to-action-link }}" class="button">{{
+          page.call-to-action-text }}</a>
         {% endif %}
-         
       </div>
     </div>
 

@@ -1,6 +1,6 @@
 ---
 title: TBD 5 - May 2025
-hero-image: /images/bighouselodge-living-room.webp
+banner: /images/bighouselodge-living-room.webp
 layout: default
 ---
 

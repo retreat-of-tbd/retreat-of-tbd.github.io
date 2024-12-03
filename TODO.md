@@ -1,8 +1,8 @@
-- [ ] darken banners so they don't suck
 - [ ] darken green
 - [ ] old events should show dates / venue + pic / theme / numbers
 - [ ] old events could show pics of ppl (w/ consent)
 
+- [x] darken banners so they don't suck
 - [x] make responsive like aonw
 - [x] maybe titles can us serif font?
 - [x] retreat of tbd top left use cursive
