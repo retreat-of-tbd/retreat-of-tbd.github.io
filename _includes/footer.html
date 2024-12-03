@@ -1,0 +1,32 @@
+<footer class="site-footer">
+</footer>
+
+<!-- <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script> -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+  integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  crossorigin="anonymous"></script>
+<script>
+  $(document).ready(function () {
+    $('.menu-open').on('click', function (){
+      $('.menu').animate(
+        {'margin-left': 0}, 
+        300,
+        function () {
+          $('.menu').addClass('always-show');
+          $('.menu').css('margin-left', '');
+        }
+      );
+    });
+
+    $('.menu-close').on('click', function (){
+      $('.menu').animate(
+        {'margin-left': '-260px'},
+         300,
+         function () {
+          $('.menu').removeClass('always-show');
+          $('.menu').css('margin-left', '');
+        }
+      );
+    });
+  });
+</script>
