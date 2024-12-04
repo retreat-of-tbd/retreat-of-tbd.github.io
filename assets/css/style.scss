@@ -206,11 +206,12 @@ body.home {
         @include title-font;
         font-size: 5rem;
         margin: 0;
+        margin-bottom: -10px;
       }
 
       .event-description {
         // @include header-font;
-        font-size: 1.2rem;
+        font-size: 1.14rem;
       }
       .event-location {
         // @include header-font;
@@ -220,6 +221,7 @@ body.home {
         // @include header-font;
         font-size: 3rem;
         font-weight: bold;
+        margin: 30px 0;
       }
       a.cta {
         display: inline-block;

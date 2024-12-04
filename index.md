@@ -1,6 +1,6 @@
 ---
 title: "Retreat of TBD"
-description: Join us for three days of intense, co-created play and personal growth.
+description: Join us for three days of intense, co-created play and personal growth
 location: At Big House Lodge, Cle Elum
 date: May 23 - 26, 2025
 banner: /images/bighouselodge-front-door.webp
