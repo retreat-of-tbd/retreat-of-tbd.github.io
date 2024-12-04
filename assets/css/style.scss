@@ -3,7 +3,8 @@
 @import "{{ site.theme }}";
 
 @mixin title-font {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Georgia", cursive;
+  // font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }

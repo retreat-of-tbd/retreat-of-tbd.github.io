@@ -6,23 +6,23 @@ layout: default
 
 The Retreat of TBD is 3 days and nights of intense connection, play, personal growth … and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
-## == THEME ==
+## = Theme =
 
 TBD - we're working on this...
 
-## == REGISTRATION ==
+## = Registration =
 
 We will release half of tickets on Saturday, January 11th, 2025 @ 10am, and the other half on Wednesday, January 15th, 2025 @ 8pm.
 
 Cost & other registration details coming soon.
 
-## == WHO ==
+## = Who =
 
 You + 50-ish others (kids are welcome)
 
 If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our [DEI initiative](#-diversity-equity--inclusion-dei-initiative-) when inviting people into our space.
 
-## == WHEN ==
+## = When =
 
 **4pm Friday, May 23 - 6pm Monday, May 26 (Memorial Day Weekend)**
 
@@ -30,7 +30,7 @@ Please arrive Friday evening between 4 p.m. and 7:30 p.m., and plan on being the
 
 After closing circle on Monday afternoon, you're invited to stay an extra night (until 11 a.m. on Tuesday) to decompress together.
 
-## == WHERE ==
+## = Where =
 
 [The Big House Lodge](https://thebighouselodge.com/)<br/>
 751 Big House Road, Cle Elum, Washington 98922
@@ -39,7 +39,7 @@ After closing circle on Monday afternoon, you're invited to stay an extra night 
 ![](/images/bighouselodge-living-room.webp)
 ![](/images/bighouselodge-dining-room.webp)
 
-## == DIVERSITY, EQUITY & INCLUSION (DEI) INITIATIVE ==
+## = Diversity, equity & inclusion (DEI) initiative =
 
 While we have worked to build a more welcoming and safe space with our retreats, the reality is that TBD is still not entirely welcoming to or representative of all people. As organizing and participating members of the TBD community, we have the agency to shape our retreats towards greater diversity, equity, and inclusion by challenging how we retreat. 
 
@@ -51,13 +51,13 @@ We are asking you, our TBD alumni, to expand on who you invite into our retreat 
 
 We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
 
-## == HOST TEAM ==
+## = Host team =
 
-This is the core team that finds the venue, sends out the invitations, and helps set the stage so that you can fill it with your magic. We co-create the magic together.
+This is the core team that finds the venue, sends out the invitations, and helps set the stage so that you can fill it with your magic.
 
-- Samara Lerman
-- Milan Prince
-- Lindsay Christensen
-- Laura Coon
-- Jeremy Lightsmith
 - Blaze Creature
+- Jeremy Lightsmith
+- Laura Coon
+- Lindsay Christensen
+- Milan Prince
+- Samara Lerman

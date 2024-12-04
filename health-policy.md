@@ -1,5 +1,5 @@
 ---
-title: Health Policy
+title: Health policy
 layout: default
 ---
 

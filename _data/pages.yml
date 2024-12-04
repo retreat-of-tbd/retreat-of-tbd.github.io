@@ -1,6 +1,6 @@
 all:
 
-- title: About Retreat
+- title: About retreat
   url: /
   children:
     - title: Purpose
@@ -9,29 +9,23 @@ all:
     - title: Values
       url: /#-values-
 
-    - title: DEI Initiative
+    - title: DEI initiative
       url: /#-diversity-equity--inclusion-dei-
 
 
 - title: TBD 5 (May 2025)
   url: /tbd5.html
 
-# - title: Purpose + Values
-#   url: /purpose-values.html
-
-- title: Code of Conduct
+- title: Code of conduct
   url: /code-of-conduct.html
 
-- title: Health Policy
+- title: Health policy
   url: /health-policy.html
 
 - title: FAQ
   url: /faq.html
   
-# - title: About
-#   url: /about.html
-
-- title: Previous Events
+- title: Previous events
   children:
     - title: TBD 4
       url: /tbd4.html

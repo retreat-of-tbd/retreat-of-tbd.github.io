@@ -14,13 +14,13 @@ The Retreat of TBD is 3 days and nights of intense connection, play, personal gr
 What sessions will be offered? Depends on who comes. It's probably safe to say they will include things on movement, communication, breaking through barriers, playing, singing, and really anything anyone is passionate enough to bring into the space. They can be a skill share (e.g. Learn to slackline), a discussion (Let's talk about gender in my community), a question (How can I better show up for my partner?), or even a space (Let's sit around the fire and draw). Up to you!
 
 
-## == OUR PURPOSE ==
+## = Our purpose =
 
 The Retreat of TBD is a space created for and by a trusted network and their guests to engage with personal and collective growth with the intention of nurturing deeper connections and strengthening our broader communities. In participating, attendees are asked to explore their access to openness, vulnerability, and creativity in a reciprocal space - this is a space not only for sharing, but for also being open to receiving. While the container is ephemeral, the rewards are lasting.
 
-## == VALUES ==
+## = Values =
 
-**-- Agency (Law of Personal Mobility) --**
+**-- Agency (law of personal mobility) --**
 
 Choose your own adventure. We'll use Open Space to schedule sessions, and you get to bring whatever you need/want to the space. In fact, we're co-creating this whole event with you.
 
@@ -28,17 +28,17 @@ Choose your own adventure. We'll use Open Space to schedule sessions, and you ge
 
 This is a place to come and do your work, with support. It'll be fun too! But we want to explicitly focus on moving ourselves forward.
 
-**-- Body, Mind, Heart --**
+**-- Body, mind, heart --**
 
 We want to fully integrate all parts of our selves.
 
-**-- Safer / Stretch Space --**
+**-- Safer / stretch space --**
 
 We want everyone to be able to fully participate without fear of being harassed or discriminated against. With a bunch of people trying new things, we acknowledge that people might misstep, and if/when that happens, we offer (and encourage other attendees to offer) support.
 
 <!-- https://saferspacesnyc.wordpress.com/ -->
 
-## == DIVERSITY, EQUITY & INCLUSION (DEI) ==
+## = Diversity, equity & inclusion (DEI) =
 
 While we have worked to build a more welcoming and safe space with our retreats, the reality is that TBD is still not entirely welcoming to or representative of all people. As organizing and participating members of the TBD community, we have the agency to shape our retreats towards greater diversity, equity, and inclusion by challenging how we retreat. 
 
