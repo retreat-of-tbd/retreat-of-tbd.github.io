@@ -28,6 +28,7 @@ body {
   font-family: "Lato", sans-serif;
   font-weight: 300;
   font-style: normal;
+  font-size: 18px;
 
   @include small {
     padding-left: 0;
@@ -297,4 +298,5 @@ header.page-header {
 main.main-content {
   border-top: solid 1px #eff0f1;
   background-color: white;
+  font-size: 1.2rem;
 }
