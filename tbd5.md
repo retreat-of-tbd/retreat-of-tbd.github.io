@@ -6,15 +6,34 @@ layout: default
 
 The Retreat of TBD is 3 days and nights of intense connection, play, personal growth … and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
+## = Registration =
+
+Here's how registration will work:
+
+1. Once tickets are released, you can follow the button below to get your "ticket placeholder".
+   - Half of tickets will be released Saturday, January 11th, 2025 @ 10am.
+   - The other half will be released Wednesday, January 15th, 2025 @ 8pm.
+2. You'll have an hour to complete your registration + pay the base price with the link provided.
+3. Once we are full, we will do our best to accommodate any accessibility needs regarding sleeping.
+4. We email all registered attendees to select beds (+ pay for them) before March.
+
+<a href="https://www.eventbrite.com/e/retreat-of-tbd-5-tickets-1106044772689" class="cta">Register here</a>
+
 ## = Theme =
 
 TBD - we're working on this...
 
-## = Registration =
+## = Cost =
 
-We will release half of tickets on Saturday, January 11th, 2025 @ 10am, and the other half on Wednesday, January 15th, 2025 @ 8pm.
+- Adult tickets (16+) are $250 for the whole weekend.
+- Child tickets (6-16) are $80 each.
+- Child tickets (0-5) are free.
+- We've budgeted for 13 accessible tickets, at $75-175 each.
 
-Cost & other registration details coming soon.
+**Beds are extra!**
+
+- A twin and 1/2 of a Queen/King are all $60 extra
+- Camping and finding a non-bed spot to sleep are not extra
 
 ## = Who =
 
