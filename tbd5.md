@@ -25,15 +25,12 @@ TBD - we're working on this...
 
 ## = Cost =
 
-- Adult tickets (16+) are $250 for the whole weekend.
-- Child tickets (6-16) are $80 each.
-- Child tickets (0-5) are free.
-- We've budgeted for 13 accessible tickets, at $75-175 each.
+Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
 
-**Beds are extra!**
-
-- A twin and 1/2 of a Queen/King are all $60 extra
-- Camping and finding a non-bed spot to sleep are not extra
+1. Tickets are $250 / adult, $80 / kid (6y-16y), under 6y is free
+2. Beds cost will range from $0 (floor) to $60 (e.g. twin or 1/2 of a Queen/King)
+3. Bed selection will open at the end of this month
+4. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
 
 ## = Who =
 
@@ -69,6 +66,25 @@ TBD will be holding ten of the fifty available tickets for BIPOC attendees who h
 We are asking you, our TBD alumni, to expand on who you invite into our retreat space. 
 
 We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
+
+## = SESSIONS =
+
+Retreat is a container where participants host activities and sessions on whatever they want. You can share your passions by offering sessions. You can participate in other sessions that interest you. We invite you to come with the intention to learn new things, grow, play, and connect deeply with each other.
+
+What sessions will be offered? It depends on who comes.
+
+Previous retreats have included:
+
+- Movement (e.g. contact improv, group strength training, naked dance analysis)
+- Discussions (e.g. comparing relationship check-in formats, group strength training, your relationship to anger)
+- Connection (e.g. hot tub hot seat, 3 minute tantric)
+- Breaking through barriers (e.g. UX-designing your life, build an official will)
+- Play (e.g. fruit ninja, paper airplanes, a fabulous fashion show, sardines hide and seek, pillow fight)
+- Sharing (e.g. tea and chocolate, sensation tastings, magic show for adults)
+- Skills Share (e.g. lock picking, celtic rope knots) 
+- And a bunch more (singing, improv, personal support ... whatever people were passionate enough to bring into the space)
+
+What happens at this retreat is up to you!
 
 ## = Host team =
 
