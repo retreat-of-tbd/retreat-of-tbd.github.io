@@ -76,7 +76,7 @@ What sessions will be offered? It depends on who comes.
 Previous retreats have included:
 
 - Movement (e.g. contact improv, group strength training, naked dance analysis)
-- Discussions (e.g. comparing relationship check-in formats, group strength training, your relationship to anger)
+- Discussions (e.g. comparing relationship check-in formats, your relationship to anger)
 - Connection (e.g. hot tub hot seat, 3 minute tantric)
 - Breaking through barriers (e.g. UX-designing your life, build an official will)
 - Play (e.g. fruit ninja, paper airplanes, a fabulous fashion show, sardines hide and seek, pillow fight)
