@@ -1,6 +1,6 @@
 ---
 title: "Retreat of TBD"
-description: Join us for three days of intense, co-created play and personal growth
+description: Join us for three days of intentional connection, personal growth, and play
 location: At Big House Lodge, Cle Elum
 date: May 23 - 26, 2025
 banner: /images/bighouselodge-front-door.webp
@@ -9,7 +9,7 @@ call-to-action-text: Learn More!
 layout: home
 ---
 
-The Retreat of TBD is 3 days and nights of intense connection, play, personal growth ... and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
+The Retreat of TBD is 3 days and nights of intentional connection, personal growth, and play ... and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
 What sessions will be offered? Depends on who comes. It's probably safe to say they will include things on movement, communication, breaking through barriers, playing, singing, and really anything anyone is passionate enough to bring into the space. They can be a skill share (e.g. Learn to slackline), a discussion (Let's talk about gender in my community), a question (How can I better show up for my partner?), or even a space (Let's sit around the fire and draw). Up to you!
 
