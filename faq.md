@@ -11,7 +11,8 @@ Our Retreat location tends to change from year to year. For TBD 5 (2025), we wil
 
 **Is there a Facebook event?**
 
-https://www.facebook.com/events/549676544445618
+yes! **[here](https://www.facebook.com/events/549676544445618)<br/>**
+
 
 ----
 
@@ -29,7 +30,7 @@ Yes! We would love for your kids to come. They can even offer and attend session
 
 **What is the covid / health policy?**
 
-Our full Health & Wellness policy can be found at https://tbd.retreatof.com/health-policy.html
+Our full Health & Wellness policy can be found **[here](https://tbd.retreatof.com/health-policy.html)<br/>**
 
 ----
 
