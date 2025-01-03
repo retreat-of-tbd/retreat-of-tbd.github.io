@@ -30,7 +30,7 @@ We’ve listened to your feedback and improved this year’s registration proces
   
 - After purchasing a *zero cost* placeholder ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for support shifts and provide other details. Please plan to spend 15-20mins completing registration.
   
-    *Please note: you’ll have 24 hours to complete registration and send payment to secure your ticket. After 24 hours your ticket will be released to round two of tickets/the waitlist.*
+    *Please note: you’ll have 24 hours to complete registration and send payment to secure your place. After 24 hours your ticket will be released to round two of tickets/the waitlist.*
 
 - Each adult attendee will need to reserve their own ticket (you will not be able to reserve multiple tickets in a single transaction).
   
