@@ -8,7 +8,7 @@ The Retreat of TBD is 3 days and nights of intentional connection, personal grow
 
 ## = Theme =
 
-TBD - we're working on this...
+Coming soon!
 
 ## = When and where =
 
