@@ -32,28 +32,27 @@ Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into 
 3. Bed selection will open at the end of this month
 4. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
 
-## = Who =
 
-You + 50-ish others (kids are welcome)
-
-If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our [DEI initiative](#-diversity-equity--inclusion-dei-initiative-) when inviting people into our space.
-
-## = When =
+## = When and where =
 
 **4pm Friday, May 23 - 6pm Monday, May 26 (Memorial Day Weekend)**
 
-Please arrive Friday evening between 4 p.m. and 7:30 p.m., and plan on being there through the closing circle on Monday at 4 p.m. This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.
+*Please arrive Friday evening between 4 p.m. and 7:30 p.m., and plan on being there through the closing circle on Monday at 4 p.m. This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.*
 
-After closing circle on Monday afternoon, you're invited to stay an extra night (until 11 a.m. on Tuesday) to decompress together.
+*After closing circle on Monday afternoon, you're invited to stay an extra night (until 11 a.m. on Tuesday) to decompress together.*
 
-## = Where =
-
-[The Big House Lodge](https://thebighouselodge.com/)<br/>
+**[The Big House Lodge](https://thebighouselodge.com/)<br/>**
 751 Big House Road, Cle Elum, Washington 98922
 
 ![](/images/bighouselodge-front-door.webp)
 ![](/images/bighouselodge-living-room.webp)
 ![](/images/bighouselodge-dining-room.webp)
+
+## = Who =
+
+You + 50-ish others (kids are welcome)
+
+If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our [DEI initiative](#-diversity-equity--inclusion-dei-initiative-) when inviting people into our space.
 
 ## = Diversity, equity & inclusion (DEI) initiative =
 
@@ -67,7 +66,20 @@ We are asking you, our TBD alumni, to expand on who you invite into our retreat 
 
 We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
 
-## = SESSIONS =
+## = Sharing space in a multi generational community =
+As TBD has grown, so has the age range of our attendees, including families with kids, and we think that’s really cool! In an effort to make this space feel comfortable, relaxing, and worthwhile to everyone, we have made some intentional choices for this Retreat in response to feedback from our alumni to create spaces that allow different experiences.
+
+Sharing space with lots of people across sensory needs and age ranges can be both gratifying and challenging at times. We have made some choices for this Retreat in response to feedback to create spaces to help.
+
+Indoors, we will be holding a few lower-stimulation, adult-only, and sound-enthusiastic spaces throughout the venue.
+- The basement level will be an adult-only space throughout the weekend for sleeping, socializing, and daytime sessions. 
+- The passthrough kitchen will be our sound-enthusiastic indoor space throughout the day while sessions are happening in the main room, upper floor, and basement. 
+- All other common spaces will be used for sessions throughout the day, and we’re asking for courtesy and respect for those spaces while passing through. 
+
+Retreat is also happening in May this year in hopes that spring will bring warmer weather and more comfortable access to the outdoors. The Big House Lodge offers 8 acres of luscious land for outdoor sessions, exploring, and playing.
+
+
+## = Sessions =
 
 Retreat is a container where participants host activities and sessions on whatever they want. You can share your passions by offering sessions. You can participate in other sessions that interest you. We invite you to come with the intention to learn new things, grow, play, and connect deeply with each other.
 
@@ -90,9 +102,10 @@ What happens at this retreat is up to you!
 
 This is the core team that finds the venue, sends out the invitations, and helps set the stage so that you can fill it with your magic.
 
-- Blaze Creature
-- Jeremy Lightsmith
-- Laura Coon
 - Lindsay Christensen
-- Milan Prince
+- Laura Coon
+- Blaze Creature
 - Samara Lerman
+- Jeremy Lightsmith
+- Milan Prince
+
