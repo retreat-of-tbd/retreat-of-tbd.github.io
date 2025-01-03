@@ -28,7 +28,7 @@ We’ve listened to your feedback and improved this year’s registration proces
 
 - 10 tickets will be released on the first wave of registration for new **and** BIPOC attendees, and will be held until two months prior to the event (March 23) at which point they will be released to the waitlist.
   
-- After purchasing your ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for volunteer shifts and provide other details. Please plan to spend 10-15mins completing registration.
+- After purchasing a *zero cost* placeholder ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for support shifts and provide other details. Please plan to spend 15-20mins completing registration.
   
     *Please note: you’ll have 24 hours to complete registration and send payment to secure your ticket. After 24 hours your ticket will be released to round 2 of tickets/the waitlist.*
 
@@ -52,7 +52,7 @@ Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into 
 
 ## = Who =
 
-You + 50-ish others (kids are welcome)
+You + 50-ish other adults (kids are welcome)
 
 If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our [DEI initiative](#-diversity-equity--inclusion-dei-initiative-) when inviting people into our space.
 
