@@ -30,7 +30,7 @@ layout: default
 
 **What is the covid / health policy?**
 
-- Our full Health & Wellness policy can be found **[here](https://tbd.retreatof.com/health-policy.html)<br/>**
+- Our full health & wellness policy can be found **[here](https://tbd.retreatof.com/health-policy.html)<br/>**
 
 ----
 
