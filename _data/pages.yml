@@ -16,8 +16,8 @@ all:
 - title: TBD 5 (May 2025)
   url: /tbd5.html
 
-- title: Code of conduct
-  url: /code-of-conduct.html
+#- title: Code of conduct
+#-  url: /code-of-conduct.html
 
 - title: Health and wellness
   url: /health-policy.html
