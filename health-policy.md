@@ -1,5 +1,5 @@
 ---
-title: Health & Wellness Policy
+title: Health & wellness policy
 layout: default
 ---
 updated January 2025
