@@ -26,7 +26,7 @@ We’ve listened to your feedback and improved this year’s registration proces
 
 - We will release half of the tickets (17) on Saturday, January 11th, 2025 @ 10am, and the other half (17) on Wednesday, January 15th, 2025 @ 8pm.
 
-- 10 tickets will be released on the first wave of registration for new **and** BIPOC attendees, and will be held until two months prior to the event (March 23) at which point they will be released to the waitlist.
+- 10 tickets will be released on the first wave of registration for first time BIPOC attendees, and will be held until two months prior to the event (March 23) at which point they will be released to the waitlist.
   
 - After purchasing a *zero cost* placeholder ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for support shifts and provide other details. Please plan to spend 15-20mins completing registration.
   
