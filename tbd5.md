@@ -6,32 +6,9 @@ layout: default
 
 The Retreat of TBD is 3 days and nights of intentional connection, personal growth, and play … and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
-## = Registration =
-
-Here's how registration will work:
-
-1. Once tickets are released, you can follow the button below to get your "ticket placeholder".
-   - Half of tickets will be released Saturday, January 11th, 2025 @ 10am.
-   - The other half will be released Wednesday, January 15th, 2025 @ 8pm.
-2. You'll have an hour to complete your registration + pay the base price with the link provided.
-3. Once we are full, we will do our best to accommodate any accessibility needs regarding sleeping.
-4. We email all registered attendees to select beds (+ pay for them) before March.
-
-<a href="https://www.eventbrite.com/e/retreat-of-tbd-5-tickets-1106044772689" class="cta">Register here</a>
-
 ## = Theme =
 
 TBD - we're working on this...
-
-## = Cost =
-
-Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
-
-1. Tickets are $250 / adult, $80 / kid (6y-16y), under 6y is free
-2. Beds cost will range from $0 (floor) to $60 (e.g. twin or 1/2 of a Queen/King)
-3. Bed selection will open at the end of this month
-4. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
-
 
 ## = When and where =
 
@@ -44,9 +21,34 @@ Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into 
 **[The Big House Lodge](https://thebighouselodge.com/)<br/>**
 751 Big House Road, Cle Elum, Washington 98922
 
-![](/images/bighouselodge-front-door.webp)
-![](/images/bighouselodge-living-room.webp)
-![](/images/bighouselodge-dining-room.webp)
+## = Registration =
+We’ve listened to your feedback and improved this year’s registration process. 
+
+- We will release half of the tickets (17) on Saturday, January 11th, 2025 @ 10am, and the other half (17) on Wednesday, January 15th, 2025 @ 8pm.
+
+- 10 tickets will be released on the first wave of registration for new **and** BIPOC attendees, and will be held until two months prior to the event (March 23) at which point they will be released to the waitlist.
+  
+- After purchasing your ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for volunteer shifts and provide other details. Please plan to spend 10-15mins completing registration.
+  
+    *Please note: you’ll have 24 hours to complete registration and send payment to secure your ticket. After 24 hours your ticket will be released to round 2 of tickets/the waitlist.*
+
+- Each adult attendee will need to reserve their own ticket (you will not be able to reserve multiple tickets in a single transaction).
+  
+- We will announce when bed selection will become available before the end of January. Stay posted!
+
+
+<a href="https://www.eventbrite.com/e/retreat-of-tbd-5-tickets-1106044772689" class="cta">Register here</a>
+
+
+## = Cost =
+
+Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
+
+1. Tickets are $250 / adult, $80 / kid (6y-16y), under 6y is free
+2. Beds cost will range from $0 (floor) to $60 (e.g. twin or 1/2 of a Queen/King)
+3. Bed selection will open at the end of this month
+4. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
+
 
 ## = Who =
 
@@ -108,4 +110,8 @@ This is the core team that finds the venue, sends out the invitations, and helps
 - Samara Lerman
 - Jeremy Lightsmith
 - Milan Prince
+
+![](/images/bighouselodge-front-door.webp)
+![](/images/bighouselodge-living-room.webp)
+![](/images/bighouselodge-dining-room.webp)
 
