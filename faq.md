@@ -11,7 +11,7 @@ Our Retreat location tends to change from year to year. For TBD 5 (2025), we wil
 
 **Is there a Facebook event?**
 
-yes! **[here](https://www.facebook.com/events/549676544445618)<br/>**
+Yes! **[here](https://www.facebook.com/events/549676544445618)<br/>**
 
 
 ----
