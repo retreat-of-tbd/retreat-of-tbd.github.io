@@ -34,4 +34,4 @@ layout: default
 
 ----
 
-More questions? Feel free to reach out to ____
+More questions? Feel free to reach out to retreatoftbd@gmail.com
