@@ -14,7 +14,7 @@ Coming soon!
 
 **4pm Friday, May 23 - 6pm Monday, May 26 (Memorial Day Weekend)**
 
-*Please arrive Friday evening between 4 p.m. and 7:30 p.m., and plan on being there through the closing circle on Monday at 4 p.m. This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.*
+*Please arrive Friday evening between 4 p.m. and 7 p.m., and plan on being there through the closing circle on Monday at 4 p.m. This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.*
 
 *After closing circle on Monday afternoon, you're invited to stay an extra night (until 11 a.m. on Tuesday) to decompress together.*
 
