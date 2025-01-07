@@ -8,7 +8,17 @@ The Retreat of TBD is 3 days and nights of intentional connection, personal grow
 
 ## = Theme =
 
-Coming soon!
+**Disintegration and Cohesion**
+
+This year at TBD, we invite you to reflect on the cyclical process of transformation in your life. Together, let’s explore the delicate balance between breaking down and coming together - the natural cycles of personal and collective transformation - and how moments of disintegration, or letting go, create space for renewal, healing, and growth. 
+
+- *What parts of your identity, beliefs, or patterns are ready to be released in order to make room for something new?*
+- *How can your vulnerability amidst shedding and rebuilding bring about the potential for cohesion?*
+- *How can you build on your sense of self, as well as your connections with others while also navigating the tension between letting go and holding on?* 
+- *What old patterns would you like to dissolve to create new, more fluid transformation?* 
+- *What tools do you need to foster a sense of cohesion in your relationships or communities after a period of disintegration?*
+- *Who do you want to connect with more authentically in your life?* 
+
 
 ## = When and where =
 
