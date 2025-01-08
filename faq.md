@@ -39,7 +39,7 @@ layout: default
 If an attendee (of any age) has chronic symptoms prior to Retreat that a doctor has evaluated and declared not contagious, they are welcome to attend. As with all other attendees, if symptoms change/worsen, we are asking that they depart. 
 
 ----
-**How has the organizing team addressed community feedback in shaping the health and wellness policy?**
+**How has the organizing team addressed community feedback in shaping the health and wellness policy for TBD 5?**
 
 
 We are doing the following to address a variety of concerns and questions brought up by the community:
