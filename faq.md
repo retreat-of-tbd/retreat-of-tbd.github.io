@@ -24,7 +24,7 @@ layout: default
 
 **Are kids welcome?**
 
-- Yes! We would love for your kids to come. They can even offer and attend sessions (although some sessions might not be open to young'uns). We'll co-create norms around kid participation, interaction with others, adult-only times and spaces, and whatever else is relevant. Parents -- feel free to reach out to Jeremy or Kk (organizers bringing a 3-year-old and 11-year-old) if you have questions or ideas.
+- Yes! We would love for your kids to come. They can even offer and attend sessions (although some sessions might not be open to young'uns). We'll co-create norms around kid participation, interaction with others, adult-only times and spaces, and whatever else is relevant. Parents -- feel free to reach out to Jeremy (organizer bringing a 3-year-old and 11-year-old) if you have questions or ideas.
 
 ----
 
