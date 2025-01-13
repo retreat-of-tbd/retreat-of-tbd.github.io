@@ -14,13 +14,16 @@ In some specific cases, we are allowing exemptions to the booster requirement fo
 
 - Attendees of all ages must rapid test on Wednesday and Friday. Throat swabbing is highly recommended. Test any time on Wednesday, and within 4 hours of arrival on  Friday. 
 
-*If you have a significant COVID exposure the week of Retreat, we will require a negative NAAT or PCR test prior to your arrival, and ask that you wait until 5 days post-exposure to test.*
+If you have a significant COVID exposure the week of Retreat, we will require a negative NAAT or PCR test prior to your arrival, and ask that you wait until 5 days post-exposure to test.
 
 
 
 If you have ongoing COVID, cold, flu, or RSV symptoms before Retreat - please stay home this year; we'll provide a full refund. 
 
 When assessing your personal health, please take into account that many attendees feel more comfortable coming to Retreat because of our health and wellness policy. If your body is communicating something out of the ordinary, whether you might be coming down with or still recovering from a cold or something else (sneezing, runny nose, sore throat, swollen lymph nodes, cough, fever), please make decisions that care for your friends and community members.
+
+
+*If an attendee (of any age) has chronic symptoms prior to Retreat that a doctor has evaluated and declared not contagious, they are welcome to attend. As with all other attendees, if symptoms change/worsen, we are asking that they depart.*
 
 ----
 
