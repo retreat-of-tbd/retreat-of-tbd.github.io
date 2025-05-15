@@ -69,4 +69,15 @@ Participate in an accountability process, if needed, for your invitee at their f
 TBD events thrive on trust and connection. Every attendee is personally invited, creating a safe(r) environment where we can lean into our vulnerability, address our mistakes, and take responsibility for ourselves and each other. We encourage you to invite trustworthy, fun, and values-aligned people, trusting your judgment to maintain the integrity of our community.
 
 
+----
+**If I'm attending MFC before TBD, should I assume that counts as a COVID exposure?**
+
+As MFC is a large, unmasked event that only requires testing upon arrival, it is a higher risk event. **If there are reported COVID cases at MFC in the week following, anyone who attended will be required to take a NAAT or PCR test Friday 5/23 (5 days post event) before joining us at TBD.** If it’s accessible to you, we would recommend taking a NAAT or PCR on Friday regardless of reported cases at the event. 
+
+We will have a few Metrix® COVID-19 NAAT tests available if purchasing one is a financial barrier for you. If you are able to purchase your own/reimburse us, that would be appreciated. 
+
+David has volunteered his Metrix reader, which will be available in Seattle Friday between 10a-1p, or at the venue throughout the weekend. Please reach out to David if you would like to schedule a time to use his reader on Friday.
+
+
+
 More questions? Feel free to reach out to retreatoftbd@gmail.com
