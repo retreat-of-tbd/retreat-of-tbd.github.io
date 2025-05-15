@@ -16,6 +16,8 @@ In some specific cases, we are allowing exemptions to the booster requirement fo
 
 If you have a significant COVID exposure the week of Retreat, we will require a negative NAAT or PCR test prior to your arrival, and ask that you wait until 5 days post-exposure to test.
 
+Please see our FAQ with specific asks around those attending both Mission Fusion Campout and TBD in 2025
+
 
 If you have ongoing COVID, cold, flu, or RSV symptoms before Retreat - please stay home this year; we'll provide a full refund. 
 
@@ -34,7 +36,7 @@ When assessing your personal health, please take into account that many attendee
 
 ----
 
-*Please see our FAQ with specific asks around those attending both Mission Fusion Campout and TBD in 2025*
+
 
 
 *We reserve the right to add other Health and COVID precautions if the landscape changes in the coming months – but hopefully we won’t have to.*
