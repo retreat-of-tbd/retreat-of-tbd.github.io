@@ -73,9 +73,11 @@ TBD events thrive on trust and connection. Every attendee is personally invited,
 
 ### If I'm attending MFC before TBD, should I assume that counts as a COVID exposure?
 
-As MFC is a large, unmasked event that only requires testing upon arrival, it is a higher risk event. **If there are reported COVID cases at MFC in the week following, anyone who attended will be required to take a NAAT or PCR test Friday 5/23 (5 days post event) before joining us at TBD.** If it’s accessible to you, we would recommend taking a NAAT or PCR on Friday regardless of reported cases at the event. 
+If there are reported/known covid cases post-MFC, then anyone attending MFC will need to take a NAAT or PCR test on Friday 5/23, 5 days post-exposure. In this case, you'd take a rapid test on Wed 5/21 and then a NAAT/PCR test on Friday, to complete your pre-event testing. For those who are able, we'd love for you to treat MFC or any other large, indoor+unmasked event as a covid exposure, regardless of official post-event reporting.
 
-We will have a few Metrix® COVID-19 NAAT tests available. David has volunteered his Metrix reader, which will be available in Seattle Friday between 10a-1p, or at the venue throughout the weekend. Please reach out to David if you would like to schedule a time to use his reader on Friday.
+Note: Taking a NAAT or PCR test anytime on Friday satisfies your Friday pre-event testing; no need to also take a rapid test within 4 hours of arrival.
+
+The organizer team is making tests available for any attendee with a covid exposure in the week prior to the event - coordinate a time with David if this is the case for you. 
 
 ----
 
