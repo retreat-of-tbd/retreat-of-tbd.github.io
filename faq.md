@@ -70,7 +70,7 @@ TBD events thrive on trust and connection. Every attendee is personally invited,
 
 
 ----
-**If I'm attending MFC before TBD, should I assume that counts as a COVID exposure?**
+###If I'm attending MFC before TBD, should I assume that counts as a COVID exposure?**
 
 As MFC is a large, unmasked event that only requires testing upon arrival, it is a higher risk event. **If there are reported COVID cases at MFC in the week following, anyone who attended will be required to take a NAAT or PCR test Friday 5/23 (5 days post event) before joining us at TBD.** If it’s accessible to you, we would recommend taking a NAAT or PCR on Friday regardless of reported cases at the event. 
 
