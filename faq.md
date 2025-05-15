@@ -77,6 +77,6 @@ As MFC is a large, unmasked event that only requires testing upon arrival, it is
 
 We will have a few Metrix® COVID-19 NAAT tests available. David has volunteered his Metrix reader, which will be available in Seattle Friday between 10a-1p, or at the venue throughout the weekend. Please reach out to David if you would like to schedule a time to use his reader on Friday.
 
-
+----
 
 More questions? Feel free to reach out to retreatoftbd@gmail.com
