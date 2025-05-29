@@ -18,7 +18,7 @@ layout: default
 
 ### Who's organizing this retreat?
 
-- Your TBD 5 organizing team is Blaze Creature, Jeremy Lightsmith, Laura Coon, Lindsay Christensen, Milan Prince and Samara Lerman
+- Your TBD 5 organizing team is Blaze Creature, Jeremy Lightsmith, Laura Coon, Lindsay Christensen, Milan Prince, Samara Lerman and Valkyrie. 
 
 ----
 
