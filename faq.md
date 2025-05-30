@@ -5,7 +5,7 @@ layout: default
 
 ### Where is retreat?
 
-- Our Retreat location tends to change from year to year. For TBD 5 (2025), we will gather at The Big House Lodge, 751 Big House Road, Cle Elum, Washington 98922
+- Our Retreat location tends to change from year to year. For TBD 5 (2025), we gathered at The Big House Lodge, 751 Big House Road, Cle Elum, Washington 98922
 
 ----
 
@@ -18,7 +18,7 @@ layout: default
 
 ### Who's organized TBD 5 (2025)?
 
-- Your TBD 5 organizing team is Blaze Creature, Jeremy Lightsmith, Laura Coon, Lindsay Christensen, Milan Prince, Samara Lerman and Valkyrie JS. 
+- Your TBD 5 organizing team was Blaze Creature, Jeremy Lightsmith, Laura Coon, Lindsay Christensen, Milan Prince, Samara Lerman and Valkyrie JS. 
 
 ----
 
