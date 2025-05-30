@@ -6,7 +6,7 @@ layout: default
 
 The Retreat of TBD is 3 days and nights of intentional connection, personal growth, and play … and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
-## = Theme =
+## = The Theme for TBD 5 was =
 
 **Disintegration and Cohesion**
 
@@ -114,12 +114,13 @@ What happens at this retreat is up to you!
 
 This is the core team that finds the venue, sends out the invitations, and helps set the stage so that you can fill it with your magic.
 
+- Blaze Creature
 - Lindsay Christensen
 - Laura Coon
-- Blaze Creature
-- Samara Lerman
 - Jeremy Lightsmith
 - Milan Prince
+- Samara Lerman
+- Valkyrie JS
 
 ![](/images/bighouselodge-front-door.webp)
 ![](/images/bighouselodge-living-room.webp)
