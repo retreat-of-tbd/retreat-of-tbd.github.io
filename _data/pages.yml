@@ -13,11 +13,11 @@ all:
       url: /#-diversity-equity--inclusion-dei-
 
 
-- title: TBD 5 (May 2025)
-  url: /tbd5.html
-  children:
-    - title: Register
-      url: /tbd5.html#-registration-
+# - title: TBD 5 (May 2025)
+#   url: /tbd5.html
+#   children:
+#     - title: Register
+#       url: /tbd5.html#-registration-
 
 #- title: Code of conduct
 #-  url: /code-of-conduct.html
@@ -30,6 +30,9 @@ all:
   
 - title: Previous events
   children:
+    - title: TBD 5
+      url: /tbd5.html
+
     - title: TBD 4
       url: /tbd4.html
 
