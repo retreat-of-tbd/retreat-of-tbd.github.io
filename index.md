@@ -2,7 +2,7 @@
 title: "Retreat of TBD"
 description: Join us for three days of intentional connection, personal growth, and play
 location: At Big House Lodge, Cle Elum
-dates: July 2026
+dates: Sep 17-21, 2026
 banner: /images/bighouselodge-front-door.webp
 # call-to-action-link: /tbd6.html
 # call-to-action-text: Learn more about TBD 6!
