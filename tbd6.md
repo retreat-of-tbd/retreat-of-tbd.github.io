@@ -14,7 +14,7 @@ This year at TBD, ...
 
 ## = When and where =
 
-**4pm Thursday, September 17 - 6pm Sunday, September 20**
+**4pm Thursday, September 17 - 6pm Sunday, September 20, 2026**
 
 *Please arrive Thursday evening between 4pm and 7pm, and plan on being there through the closing circle on Sunday at 6pm This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.*
 
@@ -23,26 +23,34 @@ This year at TBD, ...
 **[The Big House Lodge](https://thebighouselodge.com/)<br/>**
 751 Big House Road, Cle Elum, Washington 98922
 
-## = Registration =
-We’ve listened to your feedback and improved this year’s registration process. 
+## = Registration + lottery =
 
-<div style="background-color: red;" markdown="1">
+Timeline for registration
 
-- We will release half of the tickets (17) on Saturday, January 11th, 2025 @ 10am, and the other half (17) on Wednesday, January 15th, 2025 @ 8pm.
-
-- 10 tickets will be released on the first wave of registration for first time BIPOC attendees, and will be held until two months prior to the event (March 23) at which point they will be released to the waitlist.
+1. **APRIL 1: Registration opens**
+  - Individuals/Groups enter lottery.
+  - BIPOC individuals can choose to register for **10 reserved seats**.
+1. **APRIL 15: Lottery Draw**
+  - 40 adults pulled from lottery entries.
+  - Groups will be skipped if:
+  -   They would result in more than **5 children under 6**.
+  -   They would exceed the **40 adult limit**.
+  - Selected individuals/groups have **3 days to register** before losing their spot.
+  - Those not selected form the waitlist.
+1. **APRIL 16: Open Registration**
+  - While tickets remain, registration is **first come, first serve**.
+  - Once tickets are gone, new registrants will join the **waitlist**.
+1. **MAY 15: Reserved Seats Released**
+  - Any remaining BIPOC reserved seats will be released for general registration.
   
-- After purchasing a *zero cost* placeholder ticket on Eventbrite, you’ll be directed to a registration form where you can sign up for support shifts and provide other details. Please plan to spend 15-20mins completing registration.
-  
-    *Please note: you’ll have 24 hours to complete registration and send payment to secure your place. After 24 hours your ticket will be released to round two of tickets/the waitlist.*
+**How the lottery works**
 
-- Each adult attendee will need to reserve their own ticket (you will not be able to reserve multiple tickets in a single transaction).
-  
-- We will announce when bed selection will become available before the end of January. Stay posted!
+  - People may register as **individuals or groups**.
+  - There is no limit to group size, but larger groups reduce your odds of getting in.
+  - **One entry per person** (individual or group). No double dipping.
+    - *Example: If you register as a group of two, neither person can register individually or with another group. Risk: If only 1 spot remains and your group is drawn, you will be skipped.*
 
-<a href="https://www.eventbrite.com/e/retreat-of-tbd-5-tickets-1106044772689" class="cta">Register here</a>
-
-</div>
+<a href="https://events.humanitix.com/retreat-of-tbd-6" class="cta">Register here</a>
 
 ## = Cost =
 
