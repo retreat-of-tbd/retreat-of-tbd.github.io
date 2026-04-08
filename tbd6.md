@@ -27,20 +27,20 @@ This year at TBD, ...
 
 Timeline for registration
 
-1. **APRIL 1: Registration opens**
+1. **MAY 1: Registration opens**
   - Individuals/Groups enter lottery.
   - BIPOC individuals can choose to register for **10 reserved seats**.
-1. **APRIL 15: Lottery Draw**
+1. **MAY 15: Lottery Draw**
   - 40 adults pulled from lottery entries.
   - Groups will be skipped if:
   -   They would result in more than **5 children under 6**.
   -   They would exceed the **40 adult limit**.
   - Selected individuals/groups have **3 days to register** before losing their spot.
   - Those not selected form the waitlist.
-1. **APRIL 16: Open Registration**
+1. **MAY 16: Open Registration**
   - While tickets remain, registration is **first come, first serve**.
   - Once tickets are gone, new registrants will join the **waitlist**.
-1. **MAY 15: Reserved Seats Released**
+1. **AUGUST 1: Reserved Seats Released**
   - Any remaining BIPOC reserved seats will be released for general registration.
   
 **How the lottery works**
@@ -48,26 +48,26 @@ Timeline for registration
   - People may register as **individuals or groups**.
   - There is no limit to group size, but larger groups reduce your odds of getting in.
   - **One entry per person** (individual or group). No double dipping.
-    - *Example: If you register as a group of two, neither person can register individually or with another group. Risk: If only 1 spot remains and your group is drawn, you will be skipped.*
+    - *Example*: If you register as a group of two, neither person can register individually or with another group.
+    - *Risk*: If only 1 spot remains and your group is drawn, you will be skipped.
 
-<a href="https://events.humanitix.com/retreat-of-tbd-6" class="cta">Register here</a>
+<a href="https://forms.gle/KCcuSTE56zNzDpCn7" class="cta">Register here</a>
 
 ## = Cost =
 
 <div style="background-color: red;" markdown="1">
 
-Prices range from $250-$310 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
+Prices range from $275-$345 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
 
-1. Tickets are $250 / adult, $80 / kid (6y-16y), under 6y is free
-2. Beds cost will range from $0 (floor) to $60 (e.g. twin or 1/2 of a Queen/King)
-3. Bed selection will open at the end of this month
-4. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
+1. Base tickets are $275 / adult, $100 / kid (6y-16y), under 6y is free
+2. Beds cost will range from $0 (floor) to $70 (e.g. twin or 1/2 of a Queen/King)
+3. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
 
 </div>
 
 ## = Who =
 
-You + 50-ish other adults (kids are welcome)
+You + 50-ish other adults (kids are welcome, with a limited number of young child spots for children under 6)
 
 If you've been to a previous Retreat of TBD, then you are welcome to invite others you think would be a great fit for the event. Please make sure to consider our [DEI initiative](#-diversity-equity--inclusion-dei-initiative-) when inviting people into our space.
 
@@ -102,7 +102,7 @@ Indoors, we will be holding a few lower-stimulation, adult-only, and sound-enthu
 - The passthrough kitchen will be our sound-enthusiastic indoor space throughout the day while sessions are happening in the main room, upper floor, and basement. 
 - All other common spaces will be used for sessions throughout the day, and we’re asking for courtesy and respect for those spaces while passing through. 
 
-Retreat is also happening in May this year in hopes that spring will bring warmer weather and more comfortable access to the outdoors. The Big House Lodge offers 8 acres of luscious land for outdoor sessions, exploring, and playing.
+Retreat is also happening in September this year in hopes that the weather will warm enough to provide comfortable access to the outdoors. The Big House Lodge offers 8 acres of luscious land for outdoor sessions, exploring, and playing.
 
 
 ## = Sessions =
