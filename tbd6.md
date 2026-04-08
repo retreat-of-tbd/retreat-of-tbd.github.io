@@ -55,15 +55,11 @@ Timeline for registration
 
 ## = Cost =
 
-<div style="background-color: red;" markdown="1">
-
 Prices range from $275-$345 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
 
 1. Base tickets are $275 / adult, $100 / kid (6y-16y), under 6y is free
 2. Beds cost will range from $0 (floor) to $70 (e.g. twin or 1/2 of a Queen/King)
 3. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
-
-</div>
 
 ## = Who =
 
@@ -88,10 +84,6 @@ We will be making intentional choices to make the retreat more inclusive as a pa
 </div>
 
 ## = Sharing space in a multi generational community =
-
-<div style="background-color: red;" markdown="1">
-what else do we want here?
-</div>
 
 As TBD has grown, so has the age range of our attendees, including families with kids, and we think that’s really cool! In an effort to make this space feel comfortable, relaxing, and worthwhile to everyone, we have made some intentional choices for this Retreat in response to feedback from our alumni to create spaces that allow different experiences.
 
