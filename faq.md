@@ -33,24 +33,14 @@ If an attendee (of any age) has chronic symptoms prior to Retreat that a doctor 
 
 ----
 
-### How did the organizing team addressed community feedback in shaping the health and wellness policy for TBD 5?
-
-
-We are doing the following to address a variety of concerns and questions brought up by the community:
-- **Moving outside the winter months** - we have a May date in hopes of getting more distance from cold and flu season, as well as the part of the year that also carries the highest COVID rates. We also have chosen a venue that allows for a lot more outdoor sessions and play, which hopefully can offer opportunities for those who do choose to mask indoors to be able to engage unmasked if they're comfortable. 
-- **Consistent + visible daily testing** - We are addressing the ways in which people were impacted by a lack of follow-through on daily testing by asking for a "Morning Rapid Test Fairy" volunteer. This attendee will hold the responsibility of assuring that attendees have tested prior to joining breakfast or morning news. We hope people will budget the time necessary to test before each day starts by setting this expectation clearly and holding this boundary each day. 
-- **Accessibility coordinator** - We will be have an Accessibility Coordinator for the event this year to provide a beacon for those who need support or needs addressed prior to and during Retreat.
-
-----
-
- ### What is your return policy? 
+### What is your return policy? 
 
 - We are able to offer refunds if you are unable to attend Retreat due to illness. We are also very happy to transfer your ticket to someone else if you find someone to transfer it to. We will do our best to help you find someone for your ticket on the waitlist but cannot guarantee a taker, especially closer to the event.
 
 
 ----
 
-## How do invites work?
+### How do invites work?
 
 TBD retreats are special in part because of their closed, invite-only model. Events are shared only by word of mouth and within private channels—please don’t publicize them.
 

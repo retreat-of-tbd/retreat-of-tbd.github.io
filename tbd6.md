@@ -8,9 +8,7 @@ The Retreat of TBD is 3 days and nights of intentional connection, personal grow
 
 ## = The Theme for TBD 6 is =
 
-**???**
-
-This year at TBD, ...
+We're still working on it... Hope to have this by the time general registration opens on May 15.
 
 ## = When and where =
 
@@ -37,6 +35,7 @@ Timeline for registration
       - They would exceed the **40 adult limit**.
 
     - Selected individuals/groups have **3 days to register** before losing their spot.
+    - Tickets may be released to people with access sleeping needs first.
     - Those not selected form the waitlist.
 1. **MAY 16: Open Registration**
     - While tickets remain, registration is **first come, first serve**.
