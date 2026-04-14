@@ -14,14 +14,14 @@ This year at TBD, ...
 
 ## = When and where =
 
-**4pm Thursday, September 17 - 6pm Sunday, September 20, 2026**
+**When:** 4pm Thursday, September 17 - 6pm Sunday, September 20, 2026
+
+**Where:** [The Big House Lodge](https://thebighouselodge.com/), 751 Big House Road, Cle Elum, Washington 98922
 
 *Please arrive Thursday evening between 4pm and 7pm, and plan on being there through the closing circle on Sunday at 6pm This will help us create a strong container to support us in the work (and play) we're all bringing to the weekend.*
 
 *After closing circle on Sunday afternoon, you're invited to stay an extra night (until 11am on Monday) to decompress together.*
 
-**[The Big House Lodge](https://thebighouselodge.com/)<br/>**
-751 Big House Road, Cle Elum, Washington 98922
 
 ## = Registration + lottery =
 
@@ -56,11 +56,11 @@ Timeline for registration
 
 ## = Cost =
 
-Prices range from $275-$345 for adults / $80 for kids. Cost is broken down into two parts: your ticket and your bed.
+Prices range from $275-$345 for adults / $100 for kids. There are 50 adult spots available. Cost is broken down into two parts: your base ticket and your bed.
 
-1. Base tickets are $275 / adult, $100 / kid (6y-16y), under 6y is free
-2. Beds cost will range from $0 (floor) to $70 (e.g. twin or 1/2 of a Queen/King)
-3. We've budgeted for 13 accessible tickets, at $75-175 each + bed cost
+1. Base tickets = $275 / adult, $100 / kid (6y-16y), under 6y is free
+2. Beds = $70 for bed (twin or 1/2 queen/king), $0 for floor / camping / on your own
+3. We've budgeted for 13 accessible tickets, at $85-185 each + bed cost
 
 ## = Who =
 
@@ -70,33 +70,24 @@ If you've been to a previous Retreat of TBD, then you are welcome to invite othe
 
 ## = Diversity, equity & inclusion (DEI) initiative =
 
-<div style="background-color: red;" markdown="1">
+{% include dei.2026.md %}
 
-While we have worked to build a more welcoming and safe space with our retreats, the reality is that TBD is still not entirely welcoming to or representative of all people. As organizing and participating members of the TBD community, we have the agency to shape our retreats towards greater diversity, equity, and inclusion by challenging how we retreat. 
+## == Kids & Multi-generational community ==
 
-For TBD 2025, the organizing team is actively working towards and prioritizing building a more inclusive environment with the following actions:
+As our community grows, so does our age range. To ensure a relaxing and productive experience for everyone, we are implementing the following intentional space-sharing guidelines:
 
-TBD will be holding ten of the fifty available tickets for BIPOC attendees who have not attended a Retreat of TBD before. These tickets will become available upon our first wave of registration, and will be held until two months prior to the event (March 23) at which point they will be released to waitlisted registrants. 
+**Attendance & Logistics**
 
-We are asking you, our TBD alumni, to expand on who you invite into our retreat space. 
+* **Capacity:** This year, we are limiting spots for children under 6 to ensure we can logistically support all families and attendees.
+* **Outdoor Space:** We’ve moved to September to take full advantage of the 8-acre grounds for outdoor sessions, exploring, and play.
 
-We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
+**Indoor Zones**
 
-</div>
+We have designated specific areas to accommodate different sensory needs:
 
-## = Sharing space in a multi generational community =
-
-As TBD has grown, so has the age range of our attendees, including families with kids, and we think that’s really cool! In an effort to make this space feel comfortable, relaxing, and worthwhile to everyone, we have made some intentional choices for this Retreat in response to feedback from our alumni to create spaces that allow different experiences.
-
-Sharing space with lots of people across sensory needs and age ranges can be both gratifying and challenging at times. We have made some choices for this Retreat in response to feedback to create spaces to help.
-
-Indoors, we will be holding a few lower-stimulation, adult-only, and sound-enthusiastic spaces throughout the venue.
-- The basement level will be an adult-only space throughout the weekend for sleeping, socializing, and daytime sessions. 
-- The passthrough kitchen will be our sound-enthusiastic indoor space throughout the day while sessions are happening in the main room, upper floor, and basement. 
-- All other common spaces will be used for sessions throughout the day, and we’re asking for courtesy and respect for those spaces while passing through. 
-
-Retreat is also happening in September this year in hopes that the weather will warm enough to provide comfortable access to the outdoors. The Big House Lodge offers 8 acres of luscious land for outdoor sessions, exploring, and playing.
-
+* **Adult-Only (Basement Level):** A dedicated space for adult sleeping, socializing, and daytime sessions throughout the weekend.
+* **Sound-Friendly Space:** A designated indoor area for kids to play and be vocal while sessions are running elsewhere.
+* **Common Areas:** Children are always welcome. However, while sessions are happening, we ask that everyone (children and adults alike) keep voices at a **conversational tone**.
 
 ## = Sessions =
 

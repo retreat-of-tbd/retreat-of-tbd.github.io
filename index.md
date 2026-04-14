@@ -42,13 +42,4 @@ We want everyone to be able to fully participate without fear of being harassed 
 
 ## = Diversity, equity & inclusion (DEI) =
 
-While we have worked to build a more welcoming and safe space with our retreats, the reality is that TBD is still not entirely welcoming to or representative of all people. As organizing and participating members of the TBD community, we have the agency to shape our retreats towards greater diversity, equity, and inclusion by challenging how we retreat. 
-
-For TBD 2025, the organizing team is actively working towards and prioritizing building a more inclusive environment with the following actions:
-
-TBD will be holding ten of the fifty available tickets for BIPOC attendees who have not attended a Retreat of TBD before. These tickets will become available upon our first wave of registration, and will be held until two months prior to the event (March 23) at which point they will be released to waitlisted registrants. 
-
-We are asking you, our TBD alumni, to expand on who you invite into our retreat space. 
-
-We will be making intentional choices to make the retreat more inclusive as a part of this initiative.
-
+{% include dei.2026.md %}
