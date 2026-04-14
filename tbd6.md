@@ -27,7 +27,7 @@ This year at TBD, ...
 
 Timeline for registration
 
-1. **MAY 1: Registration opens**
+1. **April 15: Registration opens**
     - Individuals/Groups enter lottery.
     - BIPOC individuals can choose to register for **10 reserved seats**.
 1. **MAY 15: Lottery Draw**
