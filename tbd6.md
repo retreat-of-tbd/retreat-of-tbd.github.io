@@ -28,20 +28,21 @@ This year at TBD, ...
 Timeline for registration
 
 1. **MAY 1: Registration opens**
-  - Individuals/Groups enter lottery.
-  - BIPOC individuals can choose to register for **10 reserved seats**.
+    - Individuals/Groups enter lottery.
+    - BIPOC individuals can choose to register for **10 reserved seats**.
 1. **MAY 15: Lottery Draw**
-  - 40 adults pulled from lottery entries.
-  - Groups will be skipped if:
-  -   They would result in more than **5 children under 6**.
-  -   They would exceed the **40 adult limit**.
-  - Selected individuals/groups have **3 days to register** before losing their spot.
-  - Those not selected form the waitlist.
+    - 40 adults pulled from lottery entries.
+    - Groups will be skipped if:
+      - They would result in more than **5 children under 6**.
+      - They would exceed the **40 adult limit**.
+
+    - Selected individuals/groups have **3 days to register** before losing their spot.
+    - Those not selected form the waitlist.
 1. **MAY 16: Open Registration**
-  - While tickets remain, registration is **first come, first serve**.
-  - Once tickets are gone, new registrants will join the **waitlist**.
+    - While tickets remain, registration is **first come, first serve**.
+    - Once tickets are gone, new registrants will join the **waitlist**.
 1. **AUGUST 1: Reserved Seats Released**
-  - Any remaining BIPOC reserved seats will be released for general registration.
+    - Any remaining BIPOC reserved seats will be released for general registration.
   
 **How the lottery works**
 
