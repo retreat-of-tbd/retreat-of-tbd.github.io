@@ -6,9 +6,9 @@ layout: default
 
 The Retreat of TBD is 3 days and nights of intentional connection, personal growth, and play … and/or whatever you want it to be. Offer sessions on whatever you like, and participate in other sessions that interest you.
 
-## = The Theme for TBD 6 is =
+<!-- ## = The Theme for TBD 6 is =
 
-We're still working on it... Hope to have this by the time general registration opens on May 15.
+We're still working on it... Hope to have this by the time general registration opens on May 15. -->
 
 ## = When and where =
 

@@ -4,8 +4,8 @@ description: Join us for three days of intentional connection, personal growth, 
 location: At Big House Lodge, Cle Elum
 dates: Sep 17-21, 2026
 banner: /images/bighouselodge-front-door.webp
-# call-to-action-link: /tbd6.html
-# call-to-action-text: Learn more about TBD 6!
+call-to-action-link: /tbd6.html
+call-to-action-text: Learn more about TBD 6!
 layout: home
 ---
 
