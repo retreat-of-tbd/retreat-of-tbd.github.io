@@ -51,7 +51,8 @@ Timeline for registration
     - *Example*: If you register as a group of two, neither person can register individually or with another group.
     - *Risk*: If only 1 spot remains and your group is drawn, you will be skipped.
 
-<a href="https://forms.gle/KCcuSTE56zNzDpCn7" class="cta">Register here</a>
+<!-- <a href="https://forms.gle/KCcuSTE56zNzDpCn7" class="cta">Register here</a> -->
+<a href="https://forms.gle/PQs3dCXLnuTo7cKv5" class="cta">Join the waitlist</a>
 
 ## = Cost =
 
